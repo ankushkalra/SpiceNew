@@ -1,0 +1,16 @@
+.input-group-addon {
+	min-width: 100px;
+	text-align: left;
+}
+
+.input-group {
+	width: 100%;
+}
+
+.btn-block {
+	width: 100%;
+}
+
+.mod-form-submit-button {
+	margin-top: 20px;
+}

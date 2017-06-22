@@ -1,0 +1,13 @@
+#header {
+    height: 120px;
+    background-color: rgb(41,171,226);
+}
+
+body {
+	margin: 0;
+}
+
+#logo {
+    margin-top: 15px;
+    margin-left: 15px;
+}
